@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E01 - Raromagedón
+https://dl.dropbox.com/scl/fi/500kt6cf4wp2kkg3ml1dv/GF01-1.mp4?rlkey=cpaaf6wi6okkvpmvimnrdtra6&st=hy2z936k&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E02 - La Leyenda del Monstruo del Lago
+https://dl.dropbox.com/scl/fi/zc64xb9ebq762ssmg3di1/GF01-2.mp4?rlkey=2oucebhgs4benkubegujqzl8a&st=jvvbys0c&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E03 - Escalofrío
+https://dl.dropbox.com/scl/fi/aufyoqf8t53yu8l1tk1ud/GF01-3.mp4?rlkey=kzubwvshe3of2grd311rrumie&st=ehvcphnx&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E04 - Sumergidos
+https://dl.dropbox.com/scl/fi/3z6fzndqilqyd5pe7o20y/GF01-4.mp4?rlkey=bixbooizb05jxdb3lyfxbw8xi&st=guumj4b7&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E05 - El Cerdo del Futuro
+https://dl.dropbox.com/scl/fi/2yv19oeaebfeisaxiotb7/GF01-5.mp4?rlkey=5qbcsr1o2swjhgrrwiovwvy5s&st=c738np1o&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E06 - Inconveniente Público
+https://dl.dropbox.com/scl/fi/x7cj6h8nw4e2gw2kdwf0m/GF01-6.mp4?rlkey=9jomqramoyqusu50ppuuxstr5&st=ko31u8em&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E07 - Sociedad del Ojo Cegado
+https://dl.dropbox.com/scl/fi/hh8o9p25ghxgcpe6f1dsd/GF01-7.mp4?rlkey=cdbwmvy48k0pkzf8yeerkcfln&st=6d4tzqr7&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E08 - Dipper vs. Masculinidad
+https://dl.dropbox.com/scl/fi/6sgvrb4uswz0cbxzp45k5/GF01-8.mp4?rlkey=3ye24utxsgnh5dnt37rhh7izd&st=likeimjb&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E09 - Boleto a la Locura
+https://dl.dropbox.com/scl/fi/2llr0da5v00g3t4j5bk4i/GF01-9.mp4?rlkey=wk023mv05f2odbk4uq0qmfm78&st=21slo4ft&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E10 - Recuerdos en la Mente
+https://dl.dropbox.com/scl/fi/5ohad4e1b51p8357hvkss/GF01-10.mp4?rlkey=y36s26gpnd2tw4ggtsc0q7947&st=cdulzuuv&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E11 - Nada Normal
+https://dl.dropbox.com/scl/fi/dfwfoi427io8o2kxvoe77/GF01-11.mp4?rlkey=5q0aax73jth4srx1z8eptvtzs&st=kof9xooy&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E12 - Doble Problema
+https://dl.dropbox.com/scl/fi/rx47e5dchwdm1g7jxqn3s/GF01-12.mp4?rlkey=5vxr3rxkj3l2dbvbhrl149p4m&st=nxpiffx2&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E13 - Carrera Loca
+https://dl.dropbox.com/scl/fi/6tcu4nuo9fbgit5fi4guv/GF01-13.mp4?rlkey=8cqz5a558532y8wxo8nkd2xo9&st=o1ru7ezz&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E14 - El Lago de los Muertos
+https://dl.dropbox.com/scl/fi/mto358ttpzbklnxofo99f/GF01-14.mp4?rlkey=oj3su0eoxzjpqglmyx6oyeewn&st=7yue5pko&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E15 - El Problema del Lago
+https://dl.dropbox.com/scl/fi/j653l9wd3zy8f03aputdt/GF01-15.mp4?rlkey=iwre77arj08nj3ci02z4t0hr7&st=uqkjskjc&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E16 - El Cerdo del Futuro
+https://dl.dropbox.com/scl/fi/gvzau9xbo58pn956jdaxy/GF01-16.mp4?rlkey=c6im1dj7lcvlxy6y2xvld052x&st=d4lijur3&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E17 - El Problema del Árbol
+https://dl.dropbox.com/scl/fi/yrx36mx6z05sntjfsmf2a/GF01-17.mp4?rlkey=62efpojjp2j9imw2eurje8ean&st=oz6jsd6p&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E18 - El Problema del Ojo
+https://dl.dropbox.com/scl/fi/x6gph3y2c93jf5ty3c0f7/GF01-18.mp4?rlkey=6gv253736cfv4uyrxc68f8ank&st=eo2asaac&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E19 - El Problema del Lago
+https://dl.dropbox.com/scl/fi/sjbwdcom64d4p6pn7r9h5/GF01-19.mp4?rlkey=vouxh8t4tct2lmq6dtu1zjau8&st=itlm5gw1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E20 - El Problema de la Familia
+https://dl.dropbox.com/scl/fi/wyruv9ez4u6nzfjb5sduo/GF01-20.mp4?rlkey=x4zadvbdi3mn4lyktly9h5e7m&st=4onhpwxn&dl=0
+
+#EXTGRP:TRMPPRADA 2
+<cover>https://image.tmdb.org/t/p/original/l5TDuGc6ScT1nci1hrO0iR2WWCx.jpg<cover>
+
+#EXTINF:-1",01
+https://dl.dropbox.com/scl/fi/sjbwdcom64d4p6pn7r9h5/GF01-19.mp4?rlkey=vouxh8t4tct2lmq6dtu1zjau8&st=itlm5gw1&dl=0
+
+
