@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+#EXTGRP:TEMPORADA 1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E01 - Raromagedón
 https://dl.dropbox.com/scl/fi/500kt6cf4wp2kkg3ml1dv/GF01-1.mp4?rlkey=cpaaf6wi6okkvpmvimnrdtra6&st=hy2z936k&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVb5ehzbqAyr2nBVlGKLSXziMkq.jpg",Gravity Falls S01E02 - La Leyenda del Monstruo del Lago
@@ -43,9 +43,6 @@ https://dl.dropbox.com/scl/fi/sjbwdcom64d4p6pn7r9h5/GF01-19.mp4?rlkey=vouxh8t4tc
 https://dl.dropbox.com/scl/fi/wyruv9ez4u6nzfjb5sduo/GF01-20.mp4?rlkey=x4zadvbdi3mn4lyktly9h5e7m&st=4onhpwxn&dl=0
 
 #EXTGRP:TRMPPRADA 2
-<cover>https://image.tmdb.org/t/p/original/l5TDuGc6ScT1nci1hrO0iR2WWCx.jpg<cover>
 
-#EXTINF:-1",01
-https://dl.dropbox.com/scl/fi/sjbwdcom64d4p6pn7r9h5/GF01-19.mp4?rlkey=vouxh8t4tct2lmq6dtu1zjau8&st=itlm5gw1&dl=0
 
 
