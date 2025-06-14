@@ -1,0 +1,294 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",1 Las Leyendas de una Nueva era
+http://archive.org/download/emillst_d601p_ymail4_23/C1/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",2 Cuando Seiya viste la Armadura de Pegaso
+http://archive.org/download/emillst_d601p_ymail4_23/C1/2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",3 El Guerrero de los Hielos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",4 El Caballero Dragón
+http://archive.org/download/emillst_d601p_ymail4_23/C1/4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",5 La Resurreción del Dragón
+http://archive.org/download/emillst_d601p_ymail4_23/C1/5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",6 El guerrero que viene del infierno
+http://archive.org/download/emillst_d601p_ymail4_23/C1/6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",7 La venganza del caballero Fénix
+http://archive.org/download/emillst_d601p_ymail4_23/C1/7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",8 En Busca de la Armadura de Oro
+http://archive.org/download/emillst_d601p_ymail4_23/C1/8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",9 Los Caballero del Apocalipsis
+http://archive.org/download/emillst_d601p_ymail4_23/C1/9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",10 La Tumba de la Armadura Sagrada
+http://archive.org/download/emillst_d601p_ymail4_23/C1/10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",11 Seiya se enfrenta con su doble
+http://archive.org/download/emillst_d601p_ymail4_23/C1/11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",12 ¡Atrapala! La Cadena Nebular de la amistad
+http://archive.org/download/emillst_d601p_ymail4_23/C1/12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",13 ¡A arder! Golpe de las llamas
+http://archive.org/download/emillst_d601p_ymail4_23/C1/13.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",14 ¡Derrotada! La Ilusión Diabólica
+http://archive.org/download/emillst_d601p_ymail4_23/C1/14.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",15 ¡Por fin revelado! El misterio de Ikki
+http://archive.org/download/emillst_d601p_ymail4_23/C1/15.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",16 ¡Gigante! El ataque feroz de Dócrates
+http://archive.org/download/emillst_d601p_ymail4_23/C1/16.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",17 El Guerrero del viento del Infierno
+http://archive.org/download/emillst_d601p_ymail4_23/C1/17.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",18 ¡Gran caos! Los Santos Fantasma del Caribe
+http://archive.org/download/emillst_d601p_ymail4_23/C1/18.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",19 ¡¿La vida o la muerte?! Combate decisivo en la Isla Diabólica
+http://archive.org/download/emillst_d601p_ymail4_23/C1/19.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",20 ¡Lucha de verdad! El contraataque de Shaina
+http://archive.org/download/emillst_d601p_ymail4_23/C1/20.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",21 ¡Agonía! El duelo de las Auroras
+http://archive.org/download/emillst_d601p_ymail4_23/C1/21.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",22 ¡La resurrección de las llamas! Ikki el inmortal
+http://archive.org/download/emillst_d601p_ymail4_23/C1/22.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",23 ¡El Santo de Plata! Un asesino orgulloso
+http://archive.org/download/emillst_d601p_ymail4_23/C1/23.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",24 ¡Vuela Pegaso! Como un cometa
+http://archive.org/download/emillst_d601p_ymail4_23/C1/24.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",25 ¡Luchemos! Protejamos a Atenea
+http://archive.org/download/emillst_d601p_ymail4_23/C1/25.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",26 ¡¿Enemigos o aliados?! Los Santos de Acero
+http://archive.org/download/emillst_d601p_ymail4_23/C1/26.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",27 ¡Seiya se convierte en piedra! El escudo de la Medusa
+http://archive.org/download/emillst_d601p_ymail4_23/C1/27.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",28 ¡Dragón! El golpe del sacrificio
+http://archive.org/download/emillst_d601p_ymail4_23/C1/28.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",29 ¡Secuestrada! El ejército de cuervos ataca a Saori
+http://archive.org/download/emillst_d601p_ymail4_23/C1/29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",30 ¡Arde! El cosmos del amor
+http://archive.org/download/emillst_d601p_ymail4_23/C1/30.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",31 ¡Ilusión Diabólica! La frontera entre la vida y la muerte
+http://archive.org/download/emillst_d601p_ymail4_23/C1/31.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",32 ¡Gran explosión! La Isla Death Queen
+http://archive.org/download/emillst_d601p_ymail4_23/C1/32.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",33 ¡Choque entre tigre y dragón! Las lágrimas del Dragón privado de luz
+http://archive.org/download/emillst_d601p_ymail4_23/C1/33.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",34¡Hasta siempre amigo! Descansa en paz
+http://archive.org/download/emillst_d601p_ymail4_23/C1/34.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",35¡Prepárate para morir! Abre los ojos Dragón
+http://archive.org/download/emillst_d601p_ymail4_23/C1/35.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",36¡Sorpresa! Las doce clothes de Oro
+http://archive.org/download/emillst_d601p_ymail4_23/C1/36.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",37¡La máscara grita! ¿El amor o la muerte?
+http://archive.org/download/emillst_d601p_ymail4_23/C1/37.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",38¡Colisión! El Santo de Oro
+http://archive.org/download/emillst_d601p_ymail4_23/C1/38.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",39¡Velocidad de la luz! El golpe que rompe la barrera del sonido
+http://archive.org/download/emillst_d601p_ymail4_23/C1/39.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",40¡Adelante! Nuestro viaje
+http://archive.org/download/emillst_d601p_ymail4_23/C1/40.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",41¡La gran batalla decisiva del Santuario! La peor crisis de Atenea
+http://archive.org/download/emillst_d601p_ymail4_23/C1/41.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",42¡El cosmos definitivo! Los siete sentidos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/42.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",43¡Big Bang! Batalla en la casa del toro dorado
+http://archive.org/download/emillst_d601p_ymail4_23/C1/43.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",44¡La casa de los gemelos! El laberinto de luz y oscuridad
+http://archive.org/download/emillst_d601p_ymail4_23/C1/44.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",45¡Terror! A la deriva en otra dimensión
+http://archive.org/download/emillst_d601p_ymail4_23/C1/45.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",46¡Aulla! La Cadena Nebular ofensiva y defensiva
+http://archive.org/download/emillst_d601p_ymail4_23/C1/46.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",47¡Hasta siempre Hyoga! Descansa héroe
+http://archive.org/download/emillst_d601p_ymail4_23/C1/47.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",48¡Dragón! Regresa desde el país de la muerte
+http://archive.org/download/emillst_d601p_ymail4_23/C1/48.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",49¡Amor! La oración de Shunrei
+http://archive.org/download/emillst_d601p_ymail4_23/C1/49.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",50¡Levanta Dragón! El cosmos encolerizado de Shiryu
+http://archive.org/download/emillst_d601p_ymail4_23/C1/50.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",51¡¿Por qué?! El león de oro saca los colmillos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/51.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",52¡Ares! El legendario puño de Satanás
+http://archive.org/download/emillst_d601p_ymail4_23/C1/52.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",53¡Es un hombre! Cassios muere por amor
+http://archive.org/download/emillst_d601p_ymail4_23/C1/53.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",54¡Ikki! El pájaro inmortal privado de alas
+http://archive.org/download/emillst_d601p_ymail4_23/C1/54.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",55¡Lazos de amistad! El grito de Atenea
+http://archive.org/download/emillst_d601p_ymail4_23/C1/55.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",56¡Shaka! El hombre más cercano a un dios
+http://archive.org/download/emillst_d601p_ymail4_23/C1/56.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",57¡El terror de la nada! Shaka abre los ojos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/57.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",58¡Heroico! Ikki muere por amistad
+http://archive.org/download/emillst_d601p_ymail4_23/C1/58.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",59¡Renace Cisne! La vida la muerte y el amor
+http://archive.org/download/emillst_d601p_ymail4_23/C1/59.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",60¡La resurrección de Hyoga! Una vida en peligro
+http://archive.org/download/emillst_d601p_ymail4_23/C1/60.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",61¡¿La redención o la muerte?! Estas alas están al límite
+http://archive.org/download/emillst_d601p_ymail4_23/C1/61.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",62¡Continúa Hyoga! El orgulloso guerrero
+http://archive.org/download/emillst_d601p_ymail4_23/C1/62.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",63¡Vibran! Las clothes de Oro del Santuario
+http://archive.org/download/emillst_d601p_ymail4_23/C1/63.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",64¡Jóvenes! Os confío la protección de Atenea
+http://archive.org/download/emillst_d601p_ymail4_23/C1/64.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",65¡La espada sagrada ruge! Shura contra Dragón
+http://archive.org/download/emillst_d601p_ymail4_23/C1/65.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",66¡Oh Shiryu! Te conviertes en una estrella
+http://archive.org/download/emillst_d601p_ymail4_23/C1/66.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",67¡Hasta siempre! Mi maestro mi amigo
+http://archive.org/download/emillst_d601p_ymail4_23/C1/67.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",68¡El guerrero de la belleza! Afrodita
+http://archive.org/download/emillst_d601p_ymail4_23/C1/68.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",69¡Rosa Demoníaca! El perfume de la muerte dulce
+http://archive.org/download/emillst_d601p_ymail4_23/C1/69.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",70¡Descansa en paz! La última sonrisa de Shun
+http://archive.org/download/emillst_d601p_ymail4_23/C1/70.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",71¡El tiempo se agota! La verdadera identidad del Patriarca
+http://archive.org/download/emillst_d601p_ymail4_23/C1/71.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",72¡Vamos Seiya! Supera la muerte de tus amigos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/72.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",73¡Ánimo amigos! Salvemos a Atenea
+http://archive.org/download/emillst_d601p_ymail4_23/C1/73.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",74¡Enemigos del Polo Norte! Los legendarios Guerreros Divinos
+http://archive.org/download/emillst_d601p_ymail4_23/C1/74.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",75¡Hilda! La diosa hechizada por el diablo
+http://archive.org/download/emillst_d601p_ymail4_23/C1/75.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",76¡El gigante Thor! Un cosmos de odio
+http://archive.org/download/emillst_d601p_ymail4_23/C1/76.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",77¡Lágrimas de la estrella gigante! Muerte por causa de Hilda
+http://archive.org/download/emillst_d601p_ymail4_23/C1/77.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",78¡Muestra los colmillos! Phenril el lobo del Norte
+http://archive.org/download/emillst_d601p_ymail4_23/C1/78.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",79¡Melancolía! El destino del golpe de los lobos del Norte
+http://archive.org/download/emillst_d601p_ymail4_23/C1/79.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",80¡Desaparición en las tierras heladas! Tristeza y lamento
+http://archive.org/download/emillst_d601p_ymail4_23/C1/80.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",81¡Freya! Combate a muerte por amor
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/81.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",82¡Elévate Cisne! El infierno que arde en el interior del hielo
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/82.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",83¡Arpa Misteriosa! El preludio de la muerte acecha a Shun
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/83.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",84¡Condena de muerte! Réquiem de cuerdas
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/84.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",85¡Héroe afligido! Fría aversión
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/85.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",86¡Áve inmortal! Arden las alas con color escarlata
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/86.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",87¡Amatista maléfica! El cementerio de los Santos
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/87.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",88¡La espada llameante! Ambición horrible
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/88.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",89¡Sacrificio del mal! El bosque de los espíritus
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/89.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",90¡No te vuelvas atrás Seiya! El Cosmos del Dragón Ascendente
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/90.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",91¡Arde Shun! El misterio se esconde en los colmillos negros
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/91.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",92¡Remolino! La última Tormenta Nebular de Shun
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/92.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",93¡Bud! La estrella gemela del destino
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/93.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",94¡Lazos de hermanos! Syd descansa en tu patria
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",95¡Un héroe noble! Regresa el caballero legendario
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/95.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",96¡Dragón contra Dragón! Una oportunidad de vencer entre cien mil
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/96.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",97¡Siren! La hermosa melodía de la muerte
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/97.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",98¡Aparición milagrosa! La armadura Robe de Odín
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/98.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",99¡Atenea! La noble oración de la eternidad
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/99.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",100¡El emperador Poseidón! Retorna la guerra sagrada
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/100.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",101¡A Destrozarlos! Los pilares gigantescos de los siete mares
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/101.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",102¡El misterioso brillo! La armadura de bronce dorada
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/102.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",103¡Cuidado Shun! Los colmillos de la temible bestia
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/103.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",104¡La bestia malvada debe morir! La cadena de oro indestructible
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/104.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",105¡Excálibur! El alma de Shura reside en el brazo derecho
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/105.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",106¡Sin rastro de sueños! Reunión con hedor a muerte
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/106.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",107¡Cazador de corazones! El despiadado Lymnades
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/107.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",108¡Isaac! El hombre que posee un corazón de hielo
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/108.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",109¡Aguanta Kiki! La triste batalla a muerte
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/109.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",110¡Escúchala! La hermosa canción de Atenea
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/110.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",111¡Amigos! ¡Cuando muramos será juntos!
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/111.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",112¡Dos almas! El misterio de la resurrección del emperador Poseidón
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/112.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",113¡Ataca al emperador Poseidón! La flecha de oro
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/113.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",114¡A brillar estrellas de la amistad! La leyenda de los jóvenes de la eternidad
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/114.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",115El comienzo de una nueva guerra santa
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/115.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",116Los tres del lamento
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/116.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",117La sombra de aquellos que se arrastran
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/117.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",118La redención del semidiós
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/118.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",119Reunión transitoria
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/119.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",120El Guerrero antiguo
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/120.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",121El grupo de mantos negros
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/121.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",122El momento de la duda
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/122.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",123El fin del orgullo
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/123.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",124Colisión dorada
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/124.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",125El colapso del Santuario
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/125.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",126La armadura de Atenea
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/126.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",127Una mañana de determinacion
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/127.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",128¡Cruzad! El río Aqueronte
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/128.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",129El tribunal silencioso
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/129.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",130¡Orfeo! El Caballero Legendario
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/130.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",131¡Orfeo! El Triste Réquiem
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/131.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",132¡Hades! La Sorprendente Posesión del Miedo
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/132.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",133¡La Violenta Batalla! El Camino Hacia Giudecca
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/133.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",134Castigo divino! El Eclipse Grandioso
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/134.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",135Ikki! El golpe de la lamentación
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/135.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",136Atenea Arriesga tu vida
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/136.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",137Desesperación! El muro de los lamentos
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/137.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",138Reunidas! Las Armaduras de Oro
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/138.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",139Hasta siempre! Santos Dorados
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/139.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",140El colapso del Santuario
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/140.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",141Batalla mortal hacia los Elíseos
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/141.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",142Refuerzos dorados
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/142.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",143Legendarias Armaduras Divinas
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/143.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",144Despertar del mito
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/144.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ydQkipy8AjbKq7wvBhpAkUqrxvU.jpg",145Hacia un mundo radiante de luz
+http://archive.org/download/jlindq_r174h_ymail4_138/C2/145.mp4
