@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTGRP:TEMPORADA 1
+#EXTGRP:DIGIMON AVENTURE (1999)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a1LlYnJC5Khp2cNihSG1EkhE7hg.jpg", Digimon Adventure - Episodio 01
 https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%20%5BEpisodio%2001%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
@@ -117,7 +117,7 @@ https://archive.org/download/digimon-adventure-espanol-latino-etc-tv-rip-2017/Di
 
 
 
-#EXTGRP:TEMPORADA 2
+#EXTGRP:DIGIMON AVENTURÉ 2 (2000)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gOAPfQKuaMJiSR3xt6yOmQl47eb.jpg", Digimon Adventure 02 - Episodio 1
 https://archive.org/download/digimon-adventure-02-espanol-latino-etc-tv-rip-2017/Digimon%20Adventure%2002%20%5BEpisodio%2001%5D%20Espa%C3%B1ol%20Latino%20%28ETC%20TV%29.mp4
@@ -337,7 +337,7 @@ https://archive.org/download/digimon-frontier-castellano/Digimon%20Frontier%2050
 
 
 
-﻿#EXTGRP:Digimon Tri (2015)
+﻿#EXTGRP:DIGIMON TRI (2015)
 #EXTINF: -1  tvg-logo="https://image.tmdb.org/t/p/original/bbDMqLJ42FG1chUxZneluO811Lk.jpg",1.Reunion 1
 https://dl.dropbox.com/s/bkayqy93qpsxcvi/1.mp4
 #EXTINF: -1  tvg-logo="https://image.tmdb.org/t/p/original/bbDMqLJ42FG1chUxZneluO811Lk.jpg",2.Reunion 2
