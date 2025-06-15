@@ -1,0 +1,189 @@
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",1
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2001%20-%20La%20llegada%20de%20Metabee%20%5B7522B8AE%5D.zip/%5BTK%5D%20Medabots%20-%2001%20-%20La%20llegada%20de%20Metabee%20%5B7522B8AE%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",2
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2002%20-%20El%20retorno%20de%20los%20Screws%20%5BB578FD83%5D.zip/%5BTK%5D%20Medabots%20-%2002%20-%20El%20retorno%20de%20los%20Screws%20%5BB578FD83%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",3
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2003%20-%20Huyendo%20despavorido%20%5B6C289AE1%5D.zip/%5BTK%5D%20Medabots%20-%2003%20-%20Huyendo%20despavorido%20%5B6C289AE1%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",4
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2004%20-%20El%20medaguerrero%20legendario%20%5B1620B44A%5D.zip/%5BTK%5D%20Medabots%20-%2004%20-%20El%20medaguerrero%20legendario%20%5B1620B44A%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",5
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2005%20-%20El%20viejo%20y%20el%20monstruo%20marino%20%5B739D9FFE%5D.zip/%5BTK%5D%20Medabots%20-%2005%20-%20El%20viejo%20y%20el%20monstruo%20marino%20%5B739D9FFE%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",6
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2006%20-%20El%20fantasma%20dame%20%5BF658176B%5D.zip/%5BTK%5D%20Medabots%20-%2006%20-%20El%20fantasma%20dame%20%5BF658176B%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",7
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2008%20-%20Para%20bien%20o%20Para%20mal%20-%20Primera%20Parte%20%5B12157198%5D.zip/%5BTK%5D%20Medabots%20-%2008%20-%20Para%20bien%20o%20Para%20mal%20-%20Primera%20Parte%20%5B12157198%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",8
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2008%20-%20Para%20bien%20o%20Para%20mal%20-%20Primera%20Parte%20%5B12157198%5D.zip/%5BTK%5D%20Medabots%20-%2008%20-%20Para%20bien%20o%20Para%20mal%20-%20Primera%20Parte%20%5B12157198%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",9
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2009%20-%20Para%20bien%20o%20Para%20mal%20-%20Segunda%20Parte%20%5B7768B57D%5D.zip/%5BTK%5D%20Medabots%20-%2009%20-%20Para%20bien%20o%20Para%20mal%20-%20Segunda%20Parte%20%5B7768B57D%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",10
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2010%20-%20El%20medabot%20misterioso%20%5B30CBEB4D%5D.zip/%5BTK%5D%20Medabots%20-%2010%20-%20El%20medabot%20misterioso%20%5B30CBEB4D%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",11
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2011%20-%20El%20renegado%20fantasma%20desenmascarado%20%5B32767650%5D.zip/%5BTK%5D%20Medabots%20-%2011%20-%20El%20renegado%20fantasma%20desenmascarado%20%5B32767650%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",12
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2012%20-%20Proh%C3%ADban%20todos%20los%20medabots%20%5B32166FA6%5D.zip/%5BTK%5D%20Medabots%20-%2012%20-%20Proh%C3%ADban%20todos%20los%20medabots%20%5B32166FA6%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",13
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2013%20-%20Te%20presento%20a%20tu%20medacreador%20%5B6B373096%5D.zip/%5BTK%5D%20Medabots%20-%2013%20-%20Te%20presento%20a%20tu%20medacreador%20%5B6B373096%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",14
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2014%20-%20El%20esp%C3%ADa%20que%20me%20robobatallo%20%5B356CB07F%5D.zip/%5BTK%5D%20Medabots%20-%2014%20-%20El%20esp%C3%ADa%20que%20me%20robobatallo%20%5B356CB07F%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",15
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2015%20-%20Sue%C3%B1o%20con%20Hushi%20%5B76B1ABEF%5D.zip/%5BTK%5D%20Medabots%20-%2015%20-%20Sue%C3%B1o%20con%20Hushi%20%5B76B1ABEF%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",16
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2016%20-%20Metabee%20VS%20Rokusho%20%5B438BC2A2%5D.zip/%5BTK%5D%20Medabots%20-%2016%20-%20Metabee%20VS%20Rokusho%20%5B438BC2A2%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",17
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2017%20-%20Usa%20la%20medafuerza%20%5B37A2DB7C%5D.zip/%5BTK%5D%20Medabots%20-%2017%20-%20Usa%20la%20medafuerza%20%5B37A2DB7C%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",18
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2018%20-%20%20Quince%20minutos%20de%20infamia%20%5B6698491C%5D.zip/%5BTK%5D%20Medabots%20-%2018%20-%20Quince%20minutos%20de%20infamia%20%5B6698491C%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",19
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2019%20-%20Llega%20Rintaro%20%5B5103680A%5D.zip/%5BTK%5D%20Medabots%20-%2019%20-%20Llega%20Rintaro%20%5B5103680A%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",20
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2020%20-%20El%20as%20del%20espacio%20exterior%20%5B62B9806A%5D.zip/%5BTK%5D%20Medabots%20-%2020%20-%20El%20as%20del%20espacio%20exterior%20%5B62B9806A%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",21
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2021%20-%20Mi%20espada%20de%20sombra%20y%20yo%20%5B51B805C6%5D.zip/%5BTK%5D%20Medabots%20-%2021%20-%20Mi%20espada%20de%20sombra%20y%20yo%20%5B51B805C6%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",22
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2022%20-%20Amigo%20donde%20esta%20mama%20%5B52ABBAF4%5D.zip/%5BTK%5D%20Medabots%20-%2022%20-%20Amigo%20donde%20esta%20mama%20%5B52ABBAF4%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",23
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2023%20-%20Medidas%20Extremas%20%5B98F945E6%5D.zip/%5BTK%5D%20Medabots%20-%2023%20-%20Medidas%20Extremas%20%5B98F945E6%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",24
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2024%20-%20La%20ruta%20de%20las%20ruinas%20%5B52A11009%5D.zip/%5BTK%5D%20Medabots%20-%2024%20-%20La%20ruta%20de%20las%20ruinas%20%5B52A11009%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",25
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2025%20-%20Operacion%20Escarabajo%20%5B0110A354%5D.zip/%5BTK%5D%20Medabots%20-%2025%20-%20Operacion%20Escarabajo%20%5B0110A354%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",26
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2026%20-%20La%20madre%20de%20todas%20las%20robobatallas%20%5B3EE7FB11%5D.zip/%5BTK%5D%20Medabots%20-%2026%20-%20La%20madre%20de%20todas%20las%20robobatallas%20%5B3EE7FB11%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",27
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2027%20-%20Super%20estrellas%20espaciales%20%5B10735B83%5D.zip/%5BTK%5D%20Medabots%20-%2027%20-%20Super%20estrellas%20espaciales%20%5B10735B83%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",28
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2028%20-%20Por%20amor%20o%20por%20robobatalla%20%5B96294105%5D.zip/%5BTK%5D%20Medabots%20-%2028%20-%20Por%20amor%20o%20por%20robobatalla%20%5B96294105%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",29
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2029%20-%20Bailando%20con%20la%20mantis%20%5BDD2166E2%5D.zip/%5BTK%5D%20Medabots%20-%2029%20-%20Bailando%20con%20la%20mantis%20%5BDD2166E2%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",30
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2030%20-%20Ola%20de%20frio.zip/%5BTK%5D%20Medabots%20-%2030%20-%20Ola%20de%20frio.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",31
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2031%20-%20Puente%20sobre%20un%20squidguts%20turbulento%20%5BF7004040%5D.zip/%5BTK%5D%20Medabots%20-%2031%20-%20Puente%20sobre%20un%20squidguts%20turbulento%20%5BF7004040%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",32
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2032%20-%20Nadie%20en%20casa%20%5BC03B103F%5D.zip/%5BTK%5D%20Medabots%20-%2032%20-%20Nadie%20en%20casa%20%5BC03B103F%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",33
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2033%20-%20Bienvenidos%20a%20mundo%20ninja%20%5B69DB328A%5D.zip/%5BTK%5D%20Medabots%20-%2033%20-%20Bienvenidos%20a%20mundo%20ninja%20%5B69DB328A%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",34
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2034%20-%20Comer%2C%20beber%2C%20hombre%20medabot%20%5BCD0DE7DF%5D.zip/%5BTK%5D%20Medabots%20-%2034%20-%20Comer%2C%20beber%2C%20hombre%20medabot%20%5BCD0DE7DF%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",35
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2035-Loco%20por%20la%20Se%C3%B1orita%20Mimosa%20%5BC77BD552%5D.zip/%5BTK%5D%20Medabots%20-%2035-Loco%20por%20la%20Se%C3%B1orita%20Mimosa%20%5BC77BD552%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",36
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2036%20-%20Mis%20amigos%20los%20ping%C3%BC%C3%ADnos%20%5BAD941602%5D.zip/%5BTK%5D%20Medabots%20-%2036%20-%20Mis%20amigos%20los%20ping%C3%BC%C3%ADnos%20%5BAD941602%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",37
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2037%20-%20A%20volar%20%5B9241A12B%5D.zip/%5BTK%5D%20Medabots%20-%2037%20-%20A%20volar%20%5B9241A12B%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",38
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2038%20-%20Amor%20a%20primera%20mordida%20%5BFC8DDAB4%5D.zip/%5BTK%5D%20Medabots%20-%2038%20-%20Amor%20a%20primera%20mordida%20%5BFC8DDAB4%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",39
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2039%20-%20Medalla%20Pesada%20%5B9FFB2CED%5D.zip/%5BTK%5D%20Medabots%20-%2039%20-%20Medalla%20Pesada%20%5B9FFB2CED%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",40
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2040%20-%20Que%20comiensen%20los%20medajuegos%20%5BC9976849%5D.zip/%5BTK%5D%20Medabots%20-%2040%20-%20Que%20comiensen%20los%20medajuegos%20%5BC9976849%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",41
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2041%20-%20Duendes%20y%20Piratas%20%5B97F07BD3%5D.zip/%5BTK%5D%20Medabots%20-%2041%20-%20Duendes%20y%20Piratas%20%5B97F07BD3%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",42
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2042%20-%20El%20Enga%C3%B1o%20Franc%C3%A9s%20%5BFBC021CF%5D.zip/%5BTK%5D%20Medabots%20-%2042%20-%20El%20Enga%C3%B1o%20Franc%C3%A9s%20%5BFBC021CF%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",43
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2043%20-%20Medabailarina%20espacial%20x%20%5BD90AB37E%5D.zip/%5BTK%5D%20Medabots%20-%2043%20-%20Medabailarina%20espacial%20x%20%5BD90AB37E%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",44
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2044%20-%20Amargura%20Sueca%20%5B1B25B92C%5D.zip/%5BTK%5D%20Medabots%20-%2044%20-%20Amargura%20Sueca%20%5B1B25B92C%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",45
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2045%20-%20El%20pasado%20del%20futuro%20%5B8A97DA89%5D.zip/%5BTK%5D%20Medabots%20-%2045%20-%20El%20pasado%20del%20futuro%20%5B8A97DA89%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",46
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2046%20-%20La%20medafuerza%20interior%20%5B4E354895%5D.zip/%5BTK%5D%20Medabots%20-%2046%20-%20La%20medafuerza%20interior%20%5B4E354895%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",47
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2047%20-%20Una%20cita%20con%20el%20destino%20%5B7DA93DAD%5D.zip/%5BTK%5D%20Medabots%20-%2047%20-%20Una%20cita%20con%20el%20destino%20%5B7DA93DAD%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",48
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2048%20-%20La%20calma%20antes%20de%20la%20tormenta%20%5B8EB54CC2%5D.zip/%5BTK%5D%20Medabots%20-%2048%20-%20La%20calma%20antes%20de%20la%20tormenta%20%5B8EB54CC2%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",49
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2049%20-%20Quitandole%20la%20victoria%20a%20Victor%20%5BC942A0D5%5D.zip/%5BTK%5D%20Medabots%20-%2049%20-%20Quitandole%20la%20victoria%20a%20Victor%20%5BC942A0D5%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",50
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2050%20-%20Estados%20Alterados%20%5B6DFA6EED%5D.zip/%5BTK%5D%20Medabots%20-%2050%20-%20Estados%20Alterados%20%5B6DFA6EED%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",51
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2051%20-%20Despertarse%20de%20un%20sue%C3%B1o%20%5B14582616%5D.zip/%5BTK%5D%20Medabots%20-%2051%20-%20Despertarse%20de%20un%20sue%C3%B1o%20%5B14582616%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",52
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2052%20-%20La%20ultima%20batalla%20de%20metabee%20%5BABB98318%5D.zip/%5BTK%5D%20Medabots%20-%2052%20-%20La%20ultima%20batalla%20de%20metabee%20%5BABB98318%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",53
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2053%20-%20Kilobot%20Rising.zip/%5BTK%5D%20Medabots%20-%2053%20-%20Kilobot%20Rising.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",54
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2054%20-%20Fighting%20Temptation.zip/%5BTK%5D%20Medabots%20-%2054%20-%20Fighting%20Temptation.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",55
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2055%20-%20Who%20is%20the%20Mystery%20Medafighter%21.zip/%5BTK%5D%20Medabots%20-%2055%20-%20Who%20is%20the%20Mystery%20Medafighter%21.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",56
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2056%20-%20Delivery%20Boy.zip/%5BTK%5D%20Medabots%20-%2056%20-%20Delivery%20Boy.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",57
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2057%20-%20Scoop%20of%20the%20Century.zip/%5BTK%5D%20Medabots%20-%2057%20-%20Scoop%20of%20the%20Century.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",58
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2058%20-%20Robbed%20Zombies.zip/%5BTK%5D%20Medabots%20-%2058%20-%20Robbed%20Zombies.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",59
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2059%20-%20Lights%2C%20Camera...%20Robattle%21.zip/%5BTK%5D%20Medabots%20-%2059%20-%20Lights%2C%20Camera...%20Robattle%21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",60
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2060%20-%20Dark%20Alliance%20Part%20I%20.zip/%5BTK%5D%20Medabots%20-%2060%20-%20Dark%20Alliance%20Part%20I%20.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",61
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2061%20-%20Dark%20Alliance%20Part%20II.zip/%5BTK%5D%20Medabots%20-%2061%20-%20Dark%20Alliance%20Part%20II.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",62
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2062%20-%20Redrun%20Away.zip/%5BTK%5D%20Medabots%20-%2062%20-%20Redrun%20Away.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",63
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2063%20-%20Erikas%20Secret%20Garden.zip/%5BTK%5D%20Medabots%20-%2063%20-%20Erikas%20Secret%20Garden.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",64
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2064%20-%20Metabees%20Out%20of%20Body%20Experience.zip/%5BTK%5D%20Medabots%20-%2064%20-%20Metabees%20Out%20of%20Body%20Experience.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",65
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2065%20-%20The%20Bee%20Rescues%20the%20Honey.zip/%5BTK%5D%20Medabots%20-%2065%20-%20The%20Bee%20Rescues%20the%20Honey.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",66
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2066%20-%20A%20Night%20in%20the%20Medabot%20Junkyard.zip/%5BTK%5D%20Medabots%20-%2066%20-%20A%20Night%20in%20the%20Medabot%20Junkyard.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",67
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2067%20-%20Once%20a%20Medafighter%20%20Part%20I.zip/%5BTK%5D%20Medabots%20-%2067%20-%20Once%20a%20Medafighter%20Part%20I.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",68
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2068%20-%20Once%20a%20Medafighter%20%20Part%20II.zip/%5BTK%5D%20Medabots%20-%2068%20-%20Once%20a%20Medafighter%20Part%20II.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",69
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2069%20-%20Title%20Flight.zip/%5BTK%5D%20Medabots%20-%2069%20-%20Title%20Flight.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",70
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2070%20-%20The%20Agony%20of%20the%20Cheat.zip/%5BTK%5D%20Medabots%20-%2070%20-%20The%20Agony%20of%20the%20Cheat.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",71
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2071%20-%20Its%20the%20Medafighter%20Way%21.zip/%5BTK%5D%20Medabots%20-%2071%20-%20Its%20the%20Medafighter%20Way%21.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",72
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2072%20-%20Fall%20from%20Grace%20Part%20I.zip/%5BTK%5D%20Medabots%20-%2072%20-%20Fall%20from%20Grace%20Part%20I.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",73
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2073%20-%20Fall%20from%20Grace%20%20Part%20II.zip/%5BTK%5D%20Medabots%20-%2073%20-%20Fall%20from%20Grace%20Part%20II.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",74
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2074%20-%20Mystery%20Medafighter%20Unmasked.zip/%5BTK%5D%20Medabots%20-%2074%20-%20Mystery%20Medafighter%20Unmasked.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",75
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2075%20-%20The%20Truth%20About%20Charlie.zip/%5BTK%5D%20Medabots%20-%2075%20-%20The%20Truth%20About%20Charlie.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",76
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2076%20-%20Roks%20Reborn.zip/%5BTK%5D%20Medabots%20-%2076%20-%20Roks%20Reborn.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",77
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2077%20-%20I%2C%20Kilobot.zip/%5BTK%5D%20Medabots%20-%2077%20-%20I%2C%20Kilobot.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",78
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2078%20-%20Thanks%20for%20the%20Memories.zip/%5BTK%5D%20Medabots%20-%2078%20-%20Thanks%20for%20the%20Memories.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",79
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2079%20-%20How%20Spyke%20Got%20His%20Style%20Back.zip/%5BTK%5D%20Medabots%20-%2079%20-%20How%20Spyke%20Got%20His%20Style%20Back.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",80
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2080%20-%20The%20Medabot%20Straight%20Line%20Marathon.zip/%5BTK%5D%20Medabots%20-%2080%20-%20The%20Medabot%20Straight%20Line%20Marathon.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",81
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2081%20-%20Kung%20Fu%20for%20Thought.zip/%5BTK%5D%20Medabots%20-%2081%20-%20Kung%20Fu%20for%20Thought.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",82
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2082%20-%20Erika%20to%20the%20Rescue.zip/%5BTK%5D%20Medabots%20-%2082%20-%20Erika%20to%20the%20Rescue.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",83
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2083%20-%20Rough%20on%20a%20Hot%20Tin%20Cat.zip/%5BTK%5D%20Medabots%20-%2083%20-%20Rough%20on%20a%20Hot%20Tin%20Cat.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",84
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2084%20-%20Meda-Forced.zip/%5BTK%5D%20Medabots%20-%2084%20-%20Meda-Forced.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",85
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2085%20-%20Poor%2C%20Miss%20Nae.zip/%5BTK%5D%20Medabots%20-%2085%20-%20Poor%2C%20Miss%20Nae.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",86
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2086%20-%20El%20Medaguerrero%20Misterioso...%20%C2%A1Descubierto%21%20By%20Stone03%20%281%29.zip/%5BTK%5D%20Medabots%20-%2086%20-%20El%20Medaguerrero%20Misterioso...%20%C2%A1Descubierto%21%20By%20Stone03%20%281%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",87
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2087%20-%20El%20Ganador%20Se%20Queda%20Con%20Todo.zip/%5BTK%5D%20Medabots%20-%2087%20-%20El%20Ganador%20Se%20Queda%20Con%20Todo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",88
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2088%20-%20Transfusion%20Confusion.zip/%5BTK%5D%20Medabots%20-%2088%20-%20Transfusion%20Confusion.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",89
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2089%20-%20Gryphon-Doom.zip/%5BTK%5D%20Medabots%20-%2089%20-%20Gryphon-Doom.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",90
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2090%20-%20Final%20Goodbyes.zip/%5BTK%5D%20Medabots%20-%2090%20-%20Final%20Goodbyes.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg",91
+https://archive.org/download/tk-medabots-63-erikas-secret-garden/%5BTK%5D%20Medabots%20-%2091%20-%20Into%20the%20Fire.zip/%5BTK%5D%20Medabots%20-%2091%20-%20Into%20the%20Fire.mkv
