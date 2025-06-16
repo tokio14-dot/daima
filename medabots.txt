@@ -1,15 +1,15 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 1. ¡Medabots, Robos y Acción!
-
+https://archive.org/download/medabot-49/medabot%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 2. ¡Competencia de Medabots!
-
+https://archive.org/download/medabot-49/medabot%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 3. ¡Descubriendo a Metabee!
-
+https://archive.org/download/medabot-49/medabot%20%283%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 4. ¡Batalla de Medabots!
-
+https://archive.org/download/medabot-49/medabot%20%284%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 5. ¡Medabot Misterioso!
-
+https://archive.org/download/medabot-49/medabot%20%285%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 6. ¡Medabots en Peligro!
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 7. ¡Medabots Perdidos!
