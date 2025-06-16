@@ -51,3 +51,191 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 25. ¡Medabots Supremos!
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 26. ¡Medabots Eternos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 27. ¡Medabots Imparables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 28. ¡Medabots Imbatibles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 29. ¡Medabots Victoriosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 30. ¡Medabots Triunfantes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 31. ¡Medabots Legendarios!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 32. ¡dabots Poderosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 33. ¡Medabots Indestructibles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 34. ¡Medabots Implacables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 35. ¡Medabots Invencibles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 36. ¡Medabots Supremos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 37. ¡Medabots Eternos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 38. ¡Medabots Extraordinarios!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 39. ¡Medabots Formidables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 40. ¡Medabots Asombrosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 41. ¡Medabots Increíbles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 42. ¡Medabots Espectaculares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 43. ¡Medabots Sorprendentes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 44. ¡Medabots Impresionantes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 45. ¡Medabots Magníficos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 46. ¡Medabots Grandiosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 47. ¡Medabots Excepcionales!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 48. ¡Medabots Sobresalientes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 49. ¡Medabots Destacados!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 50. ¡Medabots Singulares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 51. ¡Medabots Extraordinarios!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 52. ¡Medabots Formidables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 53. ¡Medabots Asombrosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 54. ¡Medabots Increíbles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 55. ¡Medabots Espectaculares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 56. ¡Medabots Sorprendentes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 57. ¡Medabots Impresionantes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 58. ¡Medabots Magníficos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 59. ¡Medabots Grandiosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 60. ¡Medabots Excepcionales!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 61. ¡Medabots Sobresalientes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 62. ¡Medabots Destacados!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 63. ¡Medabots Singulares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 64. ¡Medabots Extraordinarios!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 65. ¡Medabots Formidables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 66. ¡Medabots Asombrosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 67. ¡Medabots Increíbles!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 68. ¡Medabots Espectaculares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 69. ¡Medabots Sorprendentes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 70. ¡Medabots Impresionantes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 71. ¡Medabots Magníficos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 72. ¡Medabots Grandiosos!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 73. ¡Medabots Excepcionales!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 74. ¡Medabots Sobresalientes!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 75. ¡Medabots Destacados!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 76. ¡Medabots Singulares!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 77. ¡Medabots Extraordinarios!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 78. ¡Medabots Formidables!
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zXnZnt6r8AFXBtcSdXqB47fB1Kd.jpg", 79. ¡Medabots Asombrosos!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xxxxxxxxxxxxx
