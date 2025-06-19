@@ -1,31 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", 1. La Invención del Tiempo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 1. La Invención del Tiempo
 https://archive.org/download/ri-5_20250619/ri%20%281%29.mp4
 
-#EXTINF:-1 tvg-logo="", 2. El Planeta de los Robot
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 2. El Planeta de los Robot
 https://archive.org/download/ri-5_20250619/ri%20%282%29.mp4
 
-#EXTINF:-1 tvg-logo="", 3. La Batalla Espacial
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 3. La Batalla Espacial
 https://archive.org/download/ri-5_20250619/ri%20%283%29.mp4
 
-#EXTINF:-1 tvg-logo="", 4. La Isla de los Monstruos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 4. La Isla de los Monstruos
 https://archive.org/download/ri-5_20250619/ri%20%284%29.mp4
 
-#EXTINF:-1 tvg-logo="", 5. La Máquina del Tiempo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 5. La Máquina del Tiempo
 https://archive.org/download/ri-5_20250619/ri%20%285%29.mp4
 
-#EXTINF:-1 tvg-logo="", 6. La Lucha contra el Mal
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 6. La Lucha contra el Mal
 https://archive.org/download/ri-5_20250619/ri%20%286%29.mp4
 
-#EXTINF:-1 tvg-logo="", 7. La Desaparición de Rick
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 7. La Desaparición de Rick
 https://archive.org/download/ri-5_20250619/ri%20%287%29.mp4
 
-#EXTINF:-1 tvg-logo="", 8. La Venganza de Morty
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 8. La Venganza de Morty
 https://archive.org/download/ri-5_20250619/ri%20%288%29.mp4
 
-#EXTINF:-1 tvg-logo="", 9. La Última Batalla
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 9. La Última Batalla
 https://archive.org/download/ri-5_20250619/ri%20%289%29.mp4
 
-#EXTINF:-1 tvg-logo="", 10. La Redención de Rick
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg", 10. La Redención de Rick
 https://archive.org/download/ri-5_20250619/ri%20%2810%29.mp4
+
+
+
+
+
+
+
+
+
+
+
+xxxxxx
